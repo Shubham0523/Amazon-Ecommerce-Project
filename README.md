@@ -24,8 +24,8 @@ This is a simple online shopping website that allows users to browse and purchas
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/online-shopping-website.git`
-2. Navigate to the project directory: `cd online-shopping-website`
+1. Clone the repository: `git clone https://github.com/your-username/Amazon-Ecommerce-Project.git`
+2. Navigate to the project directory: `cd Amazon-Ecommerce-Project`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
